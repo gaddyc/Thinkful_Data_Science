@@ -14,4 +14,4 @@ Supervised learning is used to predict whether a loan is good or bad.  Good mean
 The data was sourced from their website.  Both approved and rejected loan data was used for this project.
 
 
-_https://www.lendingclub.com/info/download-data.action_._
+_https://www.lendingclub.com/info/download-data.action_
